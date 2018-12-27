@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+h1 {
+	text-align: center;	
+    font-family: 'Courgette', cursive;
+    font-size: 60px;	
+}
+.buttons {
+	display: block;
+	margin: 0 auto;
+}
+button {
+	background-color: #66c2ff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 10px;    
+    cursor: pointer;
+    border-radius: 5px;
+    letter-spacing: 0.5mm;
+    font-family: 'Courgette', cursive;
+    font-weight: bold;
+    font-size: 20px;       
+}
+button:hover {
+	background-color: #99d6ff;
+}

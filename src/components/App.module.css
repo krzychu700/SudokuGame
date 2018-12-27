@@ -1,0 +1,19 @@
+.select {
+    width: 90px;
+    height: 45px;
+    border: 1px solid #66c2ff;
+    border-radius: 4px;
+    outline: 0;
+    background: #66c2ff;
+    text-transform: lowercase;
+    font-size: 100%;
+    color: #ecf0f1;
+    transition: border-color 0.3s ease-in-out, color 0.3s ease-in-out;
+    cursor: pointer;
+  }
+
+  .buttons {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }

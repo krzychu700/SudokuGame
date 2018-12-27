@@ -1,0 +1,48 @@
+.board {
+	box-sizing: border-box;
+	position: relative;
+	display: grid;
+	grid-template-columns: repeat(9, 1fr);
+	grid-auto-rows: minmax(auto, 60px);
+	border: 6px solid red;
+	border-radius: 4px;
+	margin: auto;
+	max-width: 600px;
+	font-family: 'Lato', sans-serif;
+  }
+
+  .boardLineHorizontalOne {
+	  position: absolute;
+	  top: 0;
+	  left: 192px;
+	  height: 100%;
+	  width: 6px;
+	  background-color: red;
+  }
+
+  .boardLineHorizontalTwo {
+	position: absolute;
+	top: 0;
+	left: 390px;
+	height: 100%;
+	width: 6px;
+	background-color: red;
+}
+
+.boardLineVerticalOne {
+	position: absolute;
+	top: 177px;
+	left: 0;
+	width: 100%;
+	height: 6px;
+	background-color: red;
+}
+
+.boardLineVerticalTwo {
+	position: absolute;
+	left: 0;
+	top: 357px;
+	width: 100%;
+	height: 6px;
+	background-color: red;
+}
