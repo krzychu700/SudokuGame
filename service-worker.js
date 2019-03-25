@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/krzychu700/SudokuGame/precache-manifest.8e990a4285cb9796460e7b2465901f3f.js"
+  "/SudokuGame/precache-manifest.4bcec973c9128959f9b658656f2fd055.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/krzychu700/SudokuGame/index.html", {
+workbox.routing.registerNavigationRoute("/SudokuGame/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

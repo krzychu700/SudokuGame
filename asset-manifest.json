@@ -1,13 +1,13 @@
 {
-  "main.css": "/krzychu700/SudokuGame/static/css/main.a2fee3d5.chunk.css",
-  "main.js": "/krzychu700/SudokuGame/static/js/main.670f5916.chunk.js",
-  "main.js.map": "/krzychu700/SudokuGame/static/js/main.670f5916.chunk.js.map",
-  "static/js/1.d65a1dc7.chunk.js": "/krzychu700/SudokuGame/static/js/1.d65a1dc7.chunk.js",
-  "static/js/1.d65a1dc7.chunk.js.map": "/krzychu700/SudokuGame/static/js/1.d65a1dc7.chunk.js.map",
-  "runtime~main.js": "/krzychu700/SudokuGame/static/js/runtime~main.f839e271.js",
-  "runtime~main.js.map": "/krzychu700/SudokuGame/static/js/runtime~main.f839e271.js.map",
-  "static/css/main.a2fee3d5.chunk.css.map": "/krzychu700/SudokuGame/static/css/main.a2fee3d5.chunk.css.map",
-  "index.html": "/krzychu700/SudokuGame/index.html",
-  "precache-manifest.8e990a4285cb9796460e7b2465901f3f.js": "/krzychu700/SudokuGame/precache-manifest.8e990a4285cb9796460e7b2465901f3f.js",
-  "service-worker.js": "/krzychu700/SudokuGame/service-worker.js"
+  "main.css": "/SudokuGame/static/css/main.a2fee3d5.chunk.css",
+  "main.js": "/SudokuGame/static/js/main.670f5916.chunk.js",
+  "main.js.map": "/SudokuGame/static/js/main.670f5916.chunk.js.map",
+  "static/js/1.d65a1dc7.chunk.js": "/SudokuGame/static/js/1.d65a1dc7.chunk.js",
+  "static/js/1.d65a1dc7.chunk.js.map": "/SudokuGame/static/js/1.d65a1dc7.chunk.js.map",
+  "runtime~main.js": "/SudokuGame/static/js/runtime~main.62d514b4.js",
+  "runtime~main.js.map": "/SudokuGame/static/js/runtime~main.62d514b4.js.map",
+  "static/css/main.a2fee3d5.chunk.css.map": "/SudokuGame/static/css/main.a2fee3d5.chunk.css.map",
+  "index.html": "/SudokuGame/index.html",
+  "precache-manifest.4bcec973c9128959f9b658656f2fd055.js": "/SudokuGame/precache-manifest.4bcec973c9128959f9b658656f2fd055.js",
+  "service-worker.js": "/SudokuGame/service-worker.js"
 }
